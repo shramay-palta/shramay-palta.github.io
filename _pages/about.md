@@ -1,24 +1,27 @@
 ---
+title: About
 layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ph.D. Student in Computer Science | NLP Researcher
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Shramay.jpeg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Iribe 2112</p> <p> 8125 Paint Branch Dr, College Park, MD 20742 </p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a 1st year [Ph.D. Student](https://www.cs.umd.edu/people/spalta)in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/). I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in the [University of Maryland Institute of Advanced Computer Studies (UMIACS)](https://www.umiacs.umd.edu), working on research with [Professor Rachel Rudinger](https://rudinger.github.io). My research interests lie in the area of Natural Language Processing, Commonsense Reasoning and Bias and Fairness in NLP. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Prior to coming to UMD, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering. During my time at BITS PIlani, I was a Research Assistant at the [Maryland Information and Network Dynamics (MIND) Lab](http://mindlab.cs.umd.edu) at the University of Maryland, College Park where I researched on algorithms for contact tracing for COVID-19, and on time-series analysis for segmentation of breathing data for my undergraduate reseaerch thesis. I also worked with the [International Digital Health & AI Research Collaborative (I-DAIR)](https://www.i-dair.org) in Geneva as a NLP Research intern. Before that, I was a Data Science Intern and Onsite Data Technician for [TurnoutNow LLC](https://www.turnoutnow.com).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In my spare time, I enjoy hiking, playing soccer, driving, listening to music, and so much more.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- I am the current TA for CMSC 320 Intro to Data Science. My office hours are listed on the [course website](https://cmsc320.github.io/). -->
+
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
