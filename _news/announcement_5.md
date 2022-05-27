@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Awarded the Dean's Fellowship
-date: 2021-09-30 16:11:00-0400
+date: 2021-09 16:11:00-0400
 inline: false
 ---
 Awarded the Dean's Fellowship by the Graduate School at the University of Maryland, College Park for outstanding academic achievement.
