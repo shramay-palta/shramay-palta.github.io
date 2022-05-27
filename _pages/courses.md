@@ -11,7 +11,7 @@ nav: true
 #### **Spring 2022** 
 >  [CMSC 848Q: Selected Topics in Information Processing; How and Why Artificial Intelligence Answers Questions](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_848/) taught by [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/)<br />
 >  [CMSC764: Advanced Numerical Optimization](https://www.cs.umd.edu/~tomg/cmsc764_2022/) taught by [Tom Goldstein](https://www.cs.umd.edu/~tomg/)<br />
->  Teaching Assistant for [CMSC423: Bioinformatic Algorithms, Databases, and Tools] taught by Mihai Pop
+>  Teaching Assistant for CMSC423: Bioinformatic Algorithms, Databases, and Tools taught by Mihai Pop
 
 #### **Fall 2021**
 >  CMSC828J: Advanced Topics in Information Processing; Common-sense Reasoning and Natural Language Understanding taught by [Rachel Rudinger](https://rudinger.github.io) <br />
