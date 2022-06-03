@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a 1st year [Ph.D. Student](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/). I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in the [University of Maryland Institute of Advanced Computer Studies (UMIACS)](https://www.umiacs.umd.edu), working on research with [Professor Rachel Rudinger](https://rudinger.github.io). 
 
-My research interests lie in the area of Natural Language Processing, Commonsense Reasoning and Bias and Fairness in NLP. 
+My research interests lie in the area of Computational Linguistics, Natural Language Processing, Commonsense Reasoning and Bias and Fairness in NLP. 
 
 Prior to coming to UMD, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering. During my time at BITS PIlani, I was a Research Assistant at the [Maryland Information and Network Dynamics (MIND) Lab](http://mindlab.cs.umd.edu) at the University of Maryland, College Park where I researched on algorithms for contact tracing for COVID-19, and on time-series analysis for segmentation of breathing data for my undergraduate reseaerch thesis. 
 
