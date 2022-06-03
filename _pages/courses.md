@@ -8,6 +8,9 @@ nav: true
 <!-- ####  -->
 ### **University of Maryland, College Park**
 <!-- Courses taken during the PhD program at UMD. -->
+#### **Summer 2022** 
+>  Teaching Assistant for [CMSC216: Introduction to Computer Systems](https://www.cs.umd.edu/class/summer2022/cmsc216/) taught by [Nelson Padua Pérez](https://www.cs.umd.edu/~nelson/)
+
 #### **Spring 2022** 
 >  [CMSC 848Q: Selected Topics in Information Processing; How and Why Artificial Intelligence Answers Questions](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_848/) taught by [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/)<br />
 >  [CMSC764: Advanced Numerical Optimization](https://www.cs.umd.edu/~tomg/cmsc764_2022/) taught by [Tom Goldstein](https://www.cs.umd.edu/~tomg/)<br />
