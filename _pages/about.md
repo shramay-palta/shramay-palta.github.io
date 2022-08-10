@@ -6,7 +6,7 @@ subtitle: Ph.D. Student in Computer Science | NLP Researcher
 
 profile:
   align: right
-  image: shramay.jpeg
+  image: Shramay.jpeg
   address: >
     <p>Iribe 4108</p> <p> 8125 Paint Branch Dr, College Park, MD 20742 </p>
 
