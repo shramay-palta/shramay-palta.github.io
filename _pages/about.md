@@ -6,9 +6,9 @@ subtitle: Ph.D. Student in Computer Science | NLP Researcher
 
 profile:
   align: right
-  image: Shramay.jpeg
+  image: shramay.jpeg
   address: >
-    <p>Iribe 2112</p> <p> 8125 Paint Branch Dr, College Park, MD 20742 </p>
+    <p>Iribe 4108</p> <p> 8125 Paint Branch Dr, College Park, MD 20742 </p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -18,11 +18,13 @@ I am a 1st year [Ph.D. Student](https://www.cs.umd.edu/people/spalta) in the [De
 
 My research interests lie in the area of Computational Linguistics, Natural Language Processing, Commonsense Reasoning and Bias and Fairness in NLP. 
 
-Prior to coming to UMD, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering. During my time at BITS PIlani, I was a Research Assistant at the [Maryland Information and Network Dynamics (MIND) Lab](http://mindlab.cs.umd.edu) at the University of Maryland, College Park where I researched on algorithms for contact tracing for COVID-19, and on time-series analysis for segmentation of breathing data for my undergraduate reseaerch thesis. 
+Prior to coming to UMD, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering.
+
+During my time at BITS PIlani, I was a Research Assistant at the [Maryland Information and Network Dynamics (MIND) Lab](http://mindlab.cs.umd.edu) at the University of Maryland, College Park where I researched on algorithms for contact tracing for COVID-19, and on time-series analysis for segmentation of breathing data for my undergraduate reseaerch thesis. 
 
 I also worked with the [International Digital Health & AI Research Collaborative (I-DAIR)](https://www.i-dair.org) in Geneva as a NLP Research intern. Before that, I was a Data Science Intern and Onsite Data Technician for [TurnoutNow LLC](https://www.turnoutnow.com).
 
-In my spare time, I enjoy hiking, playing soccer, driving, listening to music, and so much more.
+In my spare time, I enjoy playing soccer, driving, listening to music, and so much more.
 
 <!-- I am the current TA for CMSC 320 Intro to Data Science. My office hours are listed on the [course website](https://cmsc320.github.io/). -->
 
