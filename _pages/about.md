@@ -14,7 +14,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a 1st year [Ph.D. Student](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/). I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in the [University of Maryland Institute of Advanced Computer Studies (UMIACS)](https://www.umiacs.umd.edu), working on research with [Professor Rachel Rudinger](https://rudinger.github.io). 
+I am a 2nd year [Ph.D. Student](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/). I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in the [University of Maryland Institute of Advanced Computer Studies (UMIACS)](https://www.umiacs.umd.edu), working on research with [Professor Rachel Rudinger](https://rudinger.github.io). 
 
 My research interests lie in the area of Computational Linguistics, Natural Language Processing, Commonsense Reasoning and Bias and Fairness in NLP. 
 
