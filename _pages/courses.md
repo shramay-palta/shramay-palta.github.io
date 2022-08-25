@@ -11,7 +11,7 @@ nav: true
 #### **Fall 2022** 
 >  [CMSC723: Natural Language Processing](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_723/) taught by [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/)<br />
 >  CMSC848C: Selected Topics in Information Processing; Human-AI Interaction taught by [Hal Daume](http://users.umiacs.umd.edu/~hal/)<br />
->  Teaching Assistant for CMSC828J: Advanced Topics in Information Processing; Common-sense Reasoning and Natural Language Understanding taught by [Rachel Rudinger](https://rudinger.github.io) <br />
+>  Teaching Assistant for CMSC828J: Advanced Topics in Information Processing; Common-sense Reasoning and Natural Language Understanding taught by [Rachel Rudinger](https://rudinger.github.io)
 
 #### **Summer 2022** 
 >  Teaching Assistant for [CMSC216: Introduction to Computer Systems](https://www.cs.umd.edu/class/summer2022/cmsc216/) taught by [Nelson Padua Pérez](https://www.cs.umd.edu/~nelson/)
@@ -23,8 +23,8 @@ nav: true
 
 #### **Fall 2021**
 >  CMSC828J: Advanced Topics in Information Processing; Common-sense Reasoning and Natural Language Understanding taught by [Rachel Rudinger](https://rudinger.github.io) <br />
->  [CMSC 756: Wireless and Mobile Systems for the IoT](https://www.cs.umd.edu/class/fall2021/cmsc715/) taught by [Nirupam Roy](https://www.cs.umd.edu/~nirupam/)<br />
->  Teaching Assistant for [CMSC423: Bioinformatic Algorithms, Databases, and Tools](https://rob-p.github.io/CMSC423_F21/) taught by Rob Patro
+>  [CMSC 715: Wireless and Mobile Systems for the IoT](https://www.cs.umd.edu/class/fall2021/cmsc715/) taught by [Nirupam Roy](https://www.cs.umd.edu/~nirupam/)<br />
+>  Teaching Assistant for [CMSC423: Bioinformatic Algorithms, Databases, and Tools](https://rob-p.github.io/CMSC423_F21/) taught by [Rob Patro](https://combine-lab.github.io/members/rob-patro.html)
 
 
 <!-- 
