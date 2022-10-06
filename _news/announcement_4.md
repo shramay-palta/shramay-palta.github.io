@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: post
-date: 2020-06 15:59:00-0400
+date: 2021-10 16:11:00-0400
 inline: true
 ---
-Publication in Graphs and Combinatorics -->
-
+Awarded the Dean's Fellowship by the Graduate School for outstanding academic achievement.
+<!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below. -->
