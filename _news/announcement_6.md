@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-7 16:11:00-0400
+date: 2022-7-15 16:11:00-0400
 inline: true
 ---
 I will be a reviewer for EMNLP 2022 for the Sentiment Analysis, Stylistic Analysis, and Argument Mining track!
