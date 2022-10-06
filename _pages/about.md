@@ -26,7 +26,6 @@ I also worked with the [International Digital Health & AI Research Collaborative
 
 In my spare time, I enjoy playing soccer, driving, listening to music, and so much more.
 
-<!-- I am the current TA for CMSC 320 Intro to Data Science. My office hours are listed on the [course website](https://cmsc320.github.io/). -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
