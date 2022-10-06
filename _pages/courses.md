@@ -10,7 +10,7 @@ nav: true
 <!-- Courses taken during the PhD program at UMD. -->
 #### **Fall 2022** 
 >  [CMSC723: Natural Language Processing](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_723/) taught by [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/)<br />
->  CMSC848C: Selected Topics in Information Processing; Human-AI Interaction taught by [Hal Daume](http://users.umiacs.umd.edu/~hal/)<br />
+>  CMSC848C: Selected Topics in Information Processing; Human-AI Interaction taught by [Hal Daume III](http://users.umiacs.umd.edu/~hal/)<br />
 >  Teaching Assistant for CMSC828J: Advanced Topics in Information Processing; Common-sense Reasoning and Natural Language Understanding taught by [Rachel Rudinger](https://rudinger.github.io)
 
 #### **Summer 2022** 
