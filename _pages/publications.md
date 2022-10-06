@@ -1,11 +1,11 @@
-<!-- ---
+---
 layout: page
 permalink: /publications/
-title: Publications
-description: Publications by year in reversed chronological order.
-years: [2022]
+# title: Publications
+# description: Publications by year in reversed chronological order.
+# years: [2022]
 nav: true
---- -->
+---
 <!-- _pages/publications.md -->
 <!-- <div class="publications">
 
