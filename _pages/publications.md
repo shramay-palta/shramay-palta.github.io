@@ -58,10 +58,12 @@ However, can that user trust the information they get? But multilingual question
     <!-- Hidden bibtex block -->
     
     <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">sriramanan:gor:feizi-neurips2022</span><span class="p">,</span>
-  <span class="na">bibtex_show</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">palta2022investigating</span><span class="p">,</span>
+  <!-- <span class="na">abbr</span> <span class="p">=</span> <span class="s">{NeurIPS}</span><span class="p">,</span>     -->
+  <!-- <span class="na">bibtex_show</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span> -->
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Investigating Information Inconsistency in Multilingual Open-Domain Question Answering}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Palta, Shramay and An, Haozhe and Yang, Yifan and Huang, Shuaiyi and Gor, Maharshi}</span><span class="p">,</span>
+  <!-- <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Advances in Neural Information Processing Systems}</span><span class="p">,</span> -->
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2205.12456}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
 <span class="p">}</span></code></pre></figure>
@@ -69,7 +71,10 @@ However, can that user trust the information they get? But multilingual question
     
   </div>
 </div>
-</li></ol>
 
+
+<!-- Add more here -->
+
+</li></ol>
 </div></article>
 </div></div>
