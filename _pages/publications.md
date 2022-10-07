@@ -35,7 +35,7 @@ nav: true
       <div class="author">            
                 <em><b>Shramay Palta</b></em>,
                 Haozhe An,
-                Yifan Yang
+                Yifan Yang,
                 Shuaiyi Huang,
                 and Maharshi Gor
       </div>
