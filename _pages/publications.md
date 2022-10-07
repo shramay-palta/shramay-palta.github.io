@@ -66,12 +66,9 @@ However, can that user trust the information they get? But multilingual question
 <span class="p">}</span></code></pre></figure>
     </div>
     
+<!-- Add more here -->
   </div>
 </div>
-
-
-<!-- Add more here -->
-
 </li></ol>
 </div></article>
 </div></div>
