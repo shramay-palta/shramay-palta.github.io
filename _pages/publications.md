@@ -1,30 +1,30 @@
 ---
 layout: page
 permalink: /publications/
-# title: Publications
-# description: Publications by year in reversed chronological order.
+title: Publications
+description: Publications by year in reversed chronological order.
 # years: [2022]
 nav: true
 ---
 <!-- _pages/publications.md -->
 <!-- <div class="publications">
 
-{%- for y in page.years %}
+<!-- {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div> -->
+</div> --> -->
 
 <!-- Content -->
 
   <div class="container mt-5">
     <div class="post">
 
-  <header class="post-header">
+  <!-- <header class="post-header">
     <h1 class="post-title">Publications</h1>
     <p class="post-description">Publications by years in reversed chronological order.</p>
-  </header>
+  </header> -->
 
   <article>
     <div class="publications">
