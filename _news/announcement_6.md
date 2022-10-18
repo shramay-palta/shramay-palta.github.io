@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-7-15 16:11:00-0400
+date: 2022-10-18 16:11:00-0400
 inline: true
 ---
-I will be a reviewer for EMNLP 2022 for the Sentiment Analysis, Stylistic Analysis, and Argument Mining track!
+I will be a reviewer for EACL 2023 for the Ethical and Sustainable NLP track!
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below. -->
