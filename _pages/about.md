@@ -20,7 +20,7 @@ I am a 2nd year [Ph.D. Student](https://www.cs.umd.edu/people/spalta) in the [De
 
 I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in the [University of Maryland Institute of Advanced Computer Studies (UMIACS)](https://www.umiacs.umd.edu), . 
 
-My research interests lie in the area of Computational Linguistics, Natural Language Processing, Commonsense Reasoning, Multilinguality and Bias and Fairness in NLP. 
+My research interests broadly lie in the areas of Computational Linguistics and Natural Language Processing with a focus on Commonsense Reasoning, Multilinguality and Bias and Fairness in NLP. 
 
 Before coming to Maryland, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering.
 
