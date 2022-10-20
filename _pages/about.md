@@ -16,9 +16,10 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a 2nd year [Ph.D. Student](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/) where I work with [Professor Rachel Rudinger](https://rudinger.github.io)
+<div style="text-align: justified">
+I am a 2nd year [Ph.D. Student](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/) where I work with [Professor Rachel Rudinger](https://rudinger.github.io).
 
-I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in the [University of Maryland Institute of Advanced Computer Studies (UMIACS)](https://www.umiacs.umd.edu), . 
+I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in UMIACS](https://www.umiacs.umd.edu). 
 
 My research interests broadly lie in the areas of Computational Linguistics and Natural Language Processing with a focus on Commonsense Reasoning, Multilinguality and Bias and Fairness in NLP. 
 
@@ -29,6 +30,8 @@ During my time at BITS Pilani, I was a Research Assistant at the [Maryland Infor
 <!-- I also worked with the [International Digital Health & AI Research Collaborative (I-DAIR)](https://www.i-dair.org) in Geneva as a NLP Research intern. Before that, I was a Data Science Intern and Onsite Data Technician for [TurnoutNow LLC](https://www.turnoutnow.com). -->
 
 In my spare time, I enjoy playing soccer, driving, listening to music, and so much more.
+
+</div>
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
