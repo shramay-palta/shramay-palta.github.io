@@ -24,7 +24,7 @@ My research interests lie in the area of Computational Linguistics, Natural Lang
 
 Before coming to Maryland, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering.
 
-During my time at BITS Pilani, I was a Research Assistant at the [Maryland Information and Network Dynamics (MIND) Lab](http://mindlab.cs.umd.edu) at the University of Maryland, College Park where I researched on algorithms for contact tracing for COVID-19, and on time-series analysis for segmentation of breathing data for my undergraduate reseaerch thesis. 
+During my time at BITS Pilani, I was a Research Assistant at the [Maryland Information and Network Dynamics (MIND) Lab](http://mindlab.cs.umd.edu) at the University of Maryland, College Park where I researched on algorithms for contact tracing for COVID-19, and on time-series analysis for segmentation of breathing data. 
 
 <!-- I also worked with the [International Digital Health & AI Research Collaborative (I-DAIR)](https://www.i-dair.org) in Geneva as a NLP Research intern. Before that, I was a Data Science Intern and Onsite Data Technician for [TurnoutNow LLC](https://www.turnoutnow.com). -->
 
