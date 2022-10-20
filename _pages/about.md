@@ -27,9 +27,7 @@ Before coming to Maryland, I graduated from [Birla Institute of Technology and S
 
 During my time at BITS Pilani, I was a Research Assistant at the [Maryland Information and Network Dynamics (MIND) Lab](http://mindlab.cs.umd.edu) at the University of Maryland, College Park where I researched on algorithms for contact tracing for COVID-19, and on time-series analysis for segmentation of breathing data. 
 
-<!-- I also worked with the [International Digital Health & AI Research Collaborative (I-DAIR)](https://www.i-dair.org) in Geneva as a NLP Research intern. Before that, I was a Data Science Intern and Onsite Data Technician for [TurnoutNow LLC](https://www.turnoutnow.com). -->
-
-In my spare time, I enjoy playing soccer, driving, listening to music, and so much more.
+<!-- In my spare time, I enjoy playing soccer, driving, listening to music, and so much more. -->
 
 </div>
 
