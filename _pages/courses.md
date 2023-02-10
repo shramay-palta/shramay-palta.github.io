@@ -10,8 +10,8 @@ nav: true
 <!-- Courses taken during the PhD program at UMD. -->
 #### **Spring 2023** 
 >  CMSC848D: Selected Topics in Information Processing; Explainable Natural Language Processing taught by [Marine Carpuat](https://www.cs.umd.edu/~marine/)<br />
->  CMSC742: Algorithms in Machine Learning: Guarantees and Analyses taught by [Furong Huang](http://furong-huang.com)<br />
->  Teaching Assistant for CMSC470: Introduction to Natural Language Processing taught by [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/)
+>  [CMSC742: Algorithms in Machine Learning: Guarantees and Analyses](https://www.cs.umd.edu/class/spring2023/cmsc742/) taught by [Furong Huang](http://furong-huang.com)<br />
+>  Teaching Assistant for [CMSC470: Introduction to Natural Language Processing](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_470/) taught by [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/)
 
 #### **Fall 2022** 
 >  [CMSC723: Natural Language Processing](http://users.umiacs.umd.edu/~jbg/teaching/CMSC_723/) taught by [Jordan Boyd-Graber](http://users.umiacs.umd.edu/~jbg/)<br />
