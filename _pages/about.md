@@ -22,7 +22,7 @@ I am a member of the [Computational Linguistics and Information Processing (CLIP
 
 My research interests broadly lie in the areas of Computational Linguistics and Natural Language Processing with a focus on Commonsense Reasoning, Explainability and Bias and Fairness in NLP. 
 
-Before coming to Maryland, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering.
+I got my Master of Science in Computer Science from UMD in 2023. Before coming to Maryland, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering.
 
 During my time at BITS Pilani, I was a Research Assistant at the [Maryland Information and Network Dynamics (MIND) Lab](http://mindlab.cs.umd.edu) at the University of Maryland, College Park where I researched on algorithms for contact tracing for COVID-19, and on time-series analysis for segmentation of breathing data. 
 
