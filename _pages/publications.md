@@ -45,8 +45,8 @@ nav: true
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      <a href="https://shramay-palta.github.io/assets/pdf/FORL_ACL2023/paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      <a href="https://shramay-palta.github.io/assets/pdf/FORL_ACL2023/poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
+      <a href="https://shramay-palta.github.io/assets/pdf/FORK_ACL2023/paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="https://shramay-palta.github.io/assets/pdf/FORK_ACL2023/poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
       <a href="" class="bibtex btn btn-sm z-depth-0" role="button">Dataset</a>
     </div>
 
