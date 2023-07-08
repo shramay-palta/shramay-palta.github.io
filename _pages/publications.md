@@ -67,6 +67,8 @@ However, can that user trust the information they get? But multilingual question
     </div>
     
 <!-- Add more here -->
+<h2 class="year">2023</h2>
+<ol class="bibliography"><li><div class="row">
 <div class="col-sm-2 abbr">
   
     
@@ -92,9 +94,9 @@ However, can that user trust the information they get? But multilingual question
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      <a class="bibtex btn btn-sm z-depth-0" role="button">PDF</a>
-      <a class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
-      <a class="bibtex btn btn-sm z-depth-0" role="button">Dataset</a>
+      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
+      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">Dataset</a>
 
     </div>
 
