@@ -13,56 +13,79 @@ nav: true
 
   <article>
     <div class="publications">
-    <h2 class="year">2023</h2>
-<ol class="bibliography"><li><div class="row">
-<div class="col-sm-2 abbr">
+
+
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
   
     
     <abbr class="badge" style="display:inline-block; width:100px">
       <span style="background-color: transparent; color: var(--global-bg-color)">
-        ACL 2023
+        Arxiv
       </span>
     </abbr>
     
   
   </div>
 
-  <div id="palta_rudinger_FORK" class="col-sm-8">
+  <div id="palta2022investigating" class="col-sm-8">
     
-      <div class="title">FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models</div>
+      <div class="title">Investigating Information Inconsistency in Multilingual Open-Domain Question Answering</div>
       <div class="author">            
                 <em><b>Shramay Palta</b></em>,
-                and Rachel Rudinger
+                Haozhe An,
+                Yifan Yang,
+                Shuaiyi Huang,
+                and Maharshi Gor
       </div>
       <div class="periodical">
-        <em>Findings of the Association for Computational Linguistics: ACL 2023 </em>
+        <em>Arxiv Preprint</em>
+        2022
       </div>
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-      <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      <a redirect_to: /assets/FORK.pdf class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
-      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">Dataset</a>
-
+        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
     </div>
 
     <!-- Hidden abstract block -->
     
     <div class="abstract hidden">
-      <p>It is common sense that one should prefer to eat a salad with a fork rather than with a chainsaw. However, for eating a bowl of rice, the choice between a fork and a pair of chopsticks is culturally relative. We introduce FORK, a small,manually-curated set of CommonsenseQA-style questions for probing cultural biases and assumptions present in com- monsense reasoning systems, with a specific focus on food-related customs. We test several CommonsenseQA systems on FORK, and while we see high performance on questions about the US culture, the poor performance of these systems on questions about non-US cultures highlights systematic cultural biases aligned with US over non-US cultures.</p>
+      <p>Multilingual open-domain question answering can unlock information that might be unavailable in a user's primary language.  
+However, can that user trust the information they get? But multilingual question answering can potentially expose users to unreliable information through cultural differences, divergent national laws, or uneven resources. To understand the effects of the biased availability of information and cultural influence, we analyze the behavior of multilingual open-domain question answering models with a focus on retrieval bias. We analyze if different retriever models present different passages---and answers---given the same question in different languages on TyDi QA and XOR-TyDi QA, two multilingual QA datasets. While most answers are consistent, where they differ reveals valuable information about per-language resources disparity, and linguistic variation.</p>
     </div>
 
     <!-- Hidden bibtex block -->
     
     <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">palta_rudinger_FORK</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models}</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{Palta, Shramay and Rudinger, Rachel}</span><span class="p">,</span>
-  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Proceedings of the Conference of the Association for Computational Linguistics (ACL)}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
-  <span class="na">url</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">palta2022investigating</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Investigating Information Inconsistency in Multilingual Open-Domain Question Answering}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Palta, Shramay and An, Haozhe and Yang, Yifan and Huang, Shuaiyi and Gor, Maharshi}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2205.12456}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
 <span class="p">}</span></code></pre></figure>
     </div>
+    
+<!-- Add more here -->
+  </div>
+</div>
+</li></ol>
+</div></article>
+</div></div>
+
+
+
+
+
+
+
+<!-- Content -->
+
+  <div class="container mt-5">
+    <div class="post">
+
+  <article>
+    <div class="publications">
 
 
   <h2 class="year">2022</h2>
