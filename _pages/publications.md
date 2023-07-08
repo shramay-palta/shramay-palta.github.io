@@ -13,6 +13,56 @@ nav: true
 
   <article>
     <div class="publications">
+    <h2 class="year">2023</h2>
+<ol class="bibliography"><li><div class="row">
+<div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge" style="display:inline-block; width:100px">
+      <span style="background-color: transparent; color: var(--global-bg-color)">
+        ACL 2023
+      </span>
+    </abbr>
+    
+  
+  </div>
+
+  <div id="palta_rudinger_FORK" class="col-sm-8">
+    
+      <div class="title">FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models</div>
+      <div class="author">            
+                <em><b>Shramay Palta</b></em>,
+                and Rachel Rudinger
+      </div>
+      <div class="periodical">
+        <em>Findings of the Association for Computational Linguistics: ACL 2023 </em>
+      </div>
+    <div class="links">  
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      <a redirect_to: /assets/FORK.pdf class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
+      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">Dataset</a>
+
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>It is common sense that one should prefer to eat a salad with a fork rather than with a chainsaw. However, for eating a bowl of rice, the choice between a fork and a pair of chopsticks is culturally relative. We introduce FORK, a small,manually-curated set of CommonsenseQA-style questions for probing cultural biases and assumptions present in com- monsense reasoning systems, with a specific focus on food-related customs. We test several CommonsenseQA systems on FORK, and while we see high performance on questions about the US culture, the poor performance of these systems on questions about non-US cultures highlights systematic cultural biases aligned with US over non-US cultures.</p>
+    </div>
+
+    <!-- Hidden bibtex block -->
+    
+    <div class="bibtex hidden">
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">palta_rudinger_FORK</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Palta, Shramay and Rudinger, Rachel}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Proceedings of the Conference of the Association for Computational Linguistics (ACL)}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+    </div>
 
 
   <h2 class="year">2022</h2>
@@ -67,56 +117,6 @@ However, can that user trust the information they get? But multilingual question
     </div>
     
 <!-- Add more here -->
-<h2 class="year">2023</h2>
-<ol class="bibliography"><li><div class="row">
-<div class="col-sm-2 abbr">
-  
-    
-    <abbr class="badge" style="display:inline-block; width:100px">
-      <span style="background-color: transparent; color: var(--global-bg-color)">
-        ACL 2023
-      </span>
-    </abbr>
-    
-  
-  </div>
-
-  <div id="palta_rudinger_FORK" class="col-sm-8">
-    
-      <div class="title">FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models</div>
-      <div class="author">            
-                <em><b>Shramay Palta</b></em>,
-                and Rachel Rudinger
-      </div>
-      <div class="periodical">
-        <em>Findings of the Association for Computational Linguistics: ACL 2023 </em>
-      </div>
-    <div class="links">  
-      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
-      <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
-      <a href="https://openreview.net/forum?id=6qdUJblMHqy" class="btn btn-sm z-depth-0" role="button" target="_blank">Dataset</a>
-
-    </div>
-
-    <!-- Hidden abstract block -->
-    
-    <div class="abstract hidden">
-      <p>It is common sense that one should prefer to eat a salad with a fork rather than with a chainsaw. However, for eating a bowl of rice, the choice between a fork and a pair of chopsticks is culturally relative. We introduce FORK, a small,manually-curated set of CommonsenseQA-style questions for probing cultural biases and assumptions present in com- monsense reasoning systems, with a specific focus on food-related customs. We test several CommonsenseQA systems on FORK, and while we see high performance on questions about the US culture, the poor performance of these systems on questions about non-US cultures highlights systematic cultural biases aligned with US over non-US cultures.</p>
-    </div>
-
-    <!-- Hidden bibtex block -->
-    
-    <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">palta_rudinger_FORK</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models}</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{Palta, Shramay and Rudinger, Rachel}</span><span class="p">,</span>
-  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Proceedings of the Conference of the Association for Computational Linguistics (ACL)}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
-  <span class="na">url</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
-<span class="p">}</span></code></pre></figure>
-    </div>
   </div>
 </div>
 </li></ol>
