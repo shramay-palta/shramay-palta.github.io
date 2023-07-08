@@ -9,11 +9,11 @@ profile:
   image: Shramay.jpeg
   address: >
     <p>Iribe 4108</p> <p> 8125 Paint Branch Dr, College Park, MD 20742 </p>
-    <p>spalta [at] umd [dot] edu </p>
+    <p>spalta [at] cs [dot] umd [dot] edu </p>
 
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a 2nd year [Ph.D. Student](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/) where I am advised by [Professor Rachel Rudinger](https://rudinger.github.io).
