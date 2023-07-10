@@ -45,7 +45,7 @@ nav: true
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      <a href="https://shramay-palta.github.io/assets/pdf/FORK_ACL2023/paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="https://aclanthology.org/2023.findings-acl.631/" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       <a href="https://shramay-palta.github.io/assets/pdf/FORK_ACL2023/poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
       <a href="https://github.com/shramay-palta/FORK_ACL2023" class="bibtex btn btn-sm z-depth-0" role="button">Dataset</a>
     </div>
@@ -60,20 +60,20 @@ nav: true
     <!-- Hidden bibtex block -->
     
     <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">palta_rudinger_fork_2023</span><span class="p">,</span>
-  <span class="na">abbr</span> <span class="p">=</span> <span class="s">{ACL}</span><span class="p">,</span>
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">palta-rudinger-2023-fork</span><span class="p">,</span>
+  <span class="na">abbr</span> <span class="p">=</span> <span class="s">ACL</span><span class="p">,</span>
   <span class="na">bibtex_show</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{FORK: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models}</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">{Palta, Shramay and Rudinger, Rachel}</span><span class="p">,</span>
-  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{Findings of the Association for Computational Linguistics: ACL 2023}</span><span class="p">,</span>
-  <span class="na">month</span> <span class="p">=</span> <span class="s">{july}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">{2023}</span><span class="p">,</span>
-  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{Association for Computational Linguistics}</span><span class="p">,</span>
-  <span class="na">address</span> <span class="p">=</span> <span class="s">{Toronto, Canada}</span><span class="p">,</span>
-  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://shramay-palta.github.io/assets/pdf/FORK_ACL2023/paper.pdf}</span><span class="p">,</span>
-  <span class="na">pages</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
-  <span class="na">doi</span> <span class="p">=</span> <span class="s">{}</span><span class="p">,</span>
-  <span class="na">abstract</span> <span class="p">=</span> <span class="s">{It is common sense that one should prefer to eat a salad with a fork rather than with a chainsaw. However, for eating a bowl of rice, the choice between a fork and a pair of chopsticks is culturally relative. We introduce FORK, a small, manually-curated set of CommonsenseQA-style questions for probing cultural biases and assumptions present in com- monsense reasoning systems, with a specific focus on food-related customs. We test several CommonsenseQA systems on FORK, and while we see high performance on questions about the US culture, the poor performance of these systems on questions about non-US cultures highlights systematic cultural biases aligned with US over non-US cultures.}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{FORK}: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay  and
+      Rudinger, Rachel"</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Findings of the Association for Computational Linguistics: ACL 2023"</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="s">jul</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2023"</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Association for Computational Linguistics"</span><span class="p">,</span>
+  <span class="na">address</span> <span class="p">=</span> <span class="s">"Toronto, Canada"</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">"https://aclanthology.org/2023.findings-acl.631"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"9952--9962"</span><span class="p">,</span>
+  <span class="na">abstract</span> <span class="p">=</span> <span class="s">"It is common sense that one should prefer to eat a salad with a fork rather than with a chainsaw. However, for eating a bowl of rice, the choice between a fork and a pair of chopsticks is culturally relative. We introduce FORK, a small, manually-curated set of CommonsenseQA-style questions for probing cultural biases and assumptions present in commonsense reasoning systems, with a specific focus on food-related customs. We test several CommonsenseQA systems on FORK, and while we see high performance on questions about the US culture, the poor performance of these systems on questions about non-US cultures highlights systematic cultural assumptions aligned with US over non-US cultures."</span><span class="p">,</span>
 <span class="p">}</span></code></pre></figure>
     </div>
     
