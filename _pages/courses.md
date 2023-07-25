@@ -8,6 +8,9 @@ nav: true
 <!-- ####  -->
 ### **University of Maryland, College Park**
 <!-- Courses taken during the PhD program at UMD. -->
+
+#### **Fall 2023** 
+>  Teaching Assistant for CMSC470: Introduction to Natural Language Processing taught by [Rachel Rudinger](https://rudinger.github.io)
 #### **Spring 2023** 
 >  CMSC848D: Selected Topics in Information Processing; Explainable Natural Language Processing taught by [Marine Carpuat](https://www.cs.umd.edu/~marine/)<br />
 >  [CMSC742: Algorithms in Machine Learning: Guarantees and Analyses](https://www.cs.umd.edu/class/spring2023/cmsc742/) taught by [Furong Huang](http://furong-huang.com)<br />
