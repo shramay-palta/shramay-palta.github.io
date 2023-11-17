@@ -97,8 +97,8 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px">
-      <span style="background-color: transparent; color: var(--global-bg-color)">
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: transparent">
+      <span style="color: #ffffff">
         Arxiv
       </span>
     </abbr>
