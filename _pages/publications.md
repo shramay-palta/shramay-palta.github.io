@@ -21,9 +21,9 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
+    <abbr class="badge" style="display:inline-block; width:100px">
       <span style="color: #ffffff">
-        Arxiv
+        arXiv
       </span>
     </abbr>
     
@@ -87,7 +87,7 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #ffc20e">
+    <abbr class="badge" style="display:inline-block; width:100px">
       <span style="color: #ffffff">
         ACL 2023
       </span>
@@ -161,9 +161,9 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
+    <abbr class="badge" style="display:inline-block; width:100px">
       <span style="color: #ffffff">
-        Arxiv
+        arXiv
       </span>
     </abbr>
     
