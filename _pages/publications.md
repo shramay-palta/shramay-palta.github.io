@@ -23,7 +23,7 @@ nav: true
   
     
     <abbr class="badge" style="display:inline-block; width:100px">
-      <span style="background-color: transparent; color: var(--global-bg-color)">
+      <span style="background-color: #ffc20e; color: #ffffff">
         ACL 2023
       </span>
     </abbr>
