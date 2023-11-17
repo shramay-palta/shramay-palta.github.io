@@ -7,6 +7,71 @@ nav: true
 ---
 
 <!--To add more papers, copy an entire content block and change details>
+<!-- Content -->
+
+  <div class="container mt-5">
+    <div class="post">
+
+  <article>
+    <div class="publications">
+
+
+  <h2 class="year">2023</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
+      <span style="color: #ffffff">
+        Arxiv
+      </span>
+    </abbr>
+    
+  
+  </div>
+
+  <div id="balepur_poe" class="col-sm-8">
+    
+      <div class="title">It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models
+</div>
+      <div class="author">
+                Nishant Balepur,            
+                <em><b>Shramay Palta</b></em>,
+                and Rachel Rudinger
+      </div>
+      <div class="periodical">
+        <em>arXiv preprint, 2023</em>
+      </div>
+    <div class="links">  
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      <a href="https://arxiv.org/abs/2311.07532" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>Chain-of-thought (COT) prompting can help large language models (LLMs) reason toward correct answers, but its efficacy in reasoning toward incorrect answers is unexplored. This strategy of process of elimination (PoE), when used with COT, has the potential to enhance interpretability in tasks like medical diagnoses of exclusion. Thus, we propose PoE with COT, a new task where LLMs must reason toward incorrect options on multiple-choice questions. We evaluate the ability of GPT-3.5, LLaMA-2, and Falcon to perform PoE with COT on 2- choice commonsense and scientific reasoning datasets. We show that PoE consistently under- performs directly choosing the correct answer. The agreement of these strategies is also lower than the self-consistency of each strategy. To study these issues further, we conduct an error analysis and give suggestions for future work.
+</p>
+    </div>
+
+    <!-- Hidden bibtex block -->
+    
+    <div class="bibtex hidden">
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">balepur2023not</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Balepur, Nishant and Palta, Shramay  and
+      Rudinger, Rachel"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2311.07532}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2023"</span>
+<span class="p">}</span></code></pre></figure>
+    </div>
+    
+  </div>
+</div>
+</li></ol>
+</div></article>
+</div></div>
 
 <!-- Content -->
 
@@ -62,8 +127,7 @@ nav: true
     <div class="bibtex hidden">
       <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">palta-rudinger-2023-fork</span><span class="p">,</span>
   <span class="na">abbr</span> <span class="p">=</span> <span class="s">ACL</span><span class="p">,</span>
-  <span class="na">bibtex_show</span> <span class="p">=</span> <span class="s">{true}</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">{FORK}: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"{FORK}: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models"</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay  and
       Rudinger, Rachel"</span><span class="p">,</span>
   <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Findings of the Association for Computational Linguistics: ACL 2023"</span><span class="p">,</span>
@@ -73,7 +137,7 @@ nav: true
   <span class="na">address</span> <span class="p">=</span> <span class="s">"Toronto, Canada"</span><span class="p">,</span>
   <span class="na">url</span> <span class="p">=</span> <span class="s">"https://aclanthology.org/2023.findings-acl.631"</span><span class="p">,</span>
   <span class="na">pages</span> <span class="p">=</span> <span class="s">"9952--9962"</span><span class="p">,</span>
-  <span class="na">abstract</span> <span class="p">=</span> <span class="s">"It is common sense that one should prefer to eat a salad with a fork rather than with a chainsaw. However, for eating a bowl of rice, the choice between a fork and a pair of chopsticks is culturally relative. We introduce FORK, a small, manually-curated set of CommonsenseQA-style questions for probing cultural biases and assumptions present in commonsense reasoning systems, with a specific focus on food-related customs. We test several CommonsenseQA systems on FORK, and while we see high performance on questions about the US culture, the poor performance of these systems on questions about non-US cultures highlights systematic cultural assumptions aligned with US over non-US cultures."</span><span class="p">,</span>
+  <span class="na">abstract</span> <span class="p">=</span> <span class="s">"It is common sense that one should prefer to eat a salad with a fork rather than with a chainsaw. However, for eating a bowl of rice, the choice between a fork and a pair of chopsticks is culturally relative. We introduce FORK, a small, manually-curated set of CommonsenseQA-style questions for probing cultural biases and assumptions present in commonsense reasoning systems, with a specific focus on food-related customs. We test several CommonsenseQA systems on FORK, and while we see high performance on questions about the US culture, the poor performance of these systems on questions about non-US cultures highlights systematic cultural assumptions aligned with US over non-US cultures."</span>
 <span class="p">}</span></code></pre></figure>
     </div>
     
@@ -117,8 +181,7 @@ nav: true
                 and Maharshi Gor
       </div>
       <div class="periodical">
-        <em>Arxiv Preprint</em>
-        2022
+        <em>arXiv preprint, 2022</em>
       </div>
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
@@ -139,7 +202,7 @@ However, can that user trust the information they get? But multilingual question
   <span class="na">title</span> <span class="p">=</span> <span class="s">{Investigating Information Inconsistency in Multilingual Open-Domain Question Answering}</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Palta, Shramay and An, Haozhe and Yang, Yifan and Huang, Shuaiyi and Gor, Maharshi}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2205.12456}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span>
 <span class="p">}</span></code></pre></figure>
     </div>
     
