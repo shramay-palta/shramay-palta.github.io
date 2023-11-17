@@ -23,7 +23,7 @@ nav: true
   
     
     <abbr class="badge" style="display:inline-block; width:100px">
-      <span style="background-color: transparent; color: #ffc20e">
+      <span style="background-color: transparent; color: var(--global-bg-color)">
         ACL 2023
       </span>
     </abbr>
@@ -40,7 +40,7 @@ nav: true
                 and Rachel Rudinger
       </div>
       <div class="periodical">
-        <em>Arxiv Preprint</em>
+        <em>Findings of the Association for Computational Linguistics: ACL 2023</em>
       </div>
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
