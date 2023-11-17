@@ -21,7 +21,7 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px">
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
       <span style="color: #ffffff">
         arXiv
       </span>
@@ -161,7 +161,7 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px">
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
       <span style="color: #ffffff">
         arXiv
       </span>
@@ -191,8 +191,7 @@ nav: true
     <!-- Hidden abstract block -->
     
     <div class="abstract hidden">
-      <p>Multilingual open-domain question answering can unlock information that might be unavailable in a user's primary language.  
-However, can that user trust the information they get? But multilingual question answering can potentially expose users to unreliable information through cultural differences, divergent national laws, or uneven resources. To understand the effects of the biased availability of information and cultural influence, we analyze the behavior of multilingual open-domain question answering models with a focus on retrieval bias. We analyze if different retriever models present different passages---and answers---given the same question in different languages on TyDi QA and XOR-TyDi QA, two multilingual QA datasets. While most answers are consistent, where they differ reveals valuable information about per-language resources disparity, and linguistic variation.</p>
+      <p>Multilingual open-domain question answering can unlock information that might be unavailable in a user's primary language. However, can that user trust the information they get? But multilingual question answering can potentially expose users to unreliable information through cultural differences, divergent national laws, or uneven resources. To understand the effects of the biased availability of information and cultural influence, we analyze the behavior of multilingual open-domain question answering models with a focus on retrieval bias. We analyze if different retriever models present different passages---and answers---given the same question in different languages on TyDi QA and XOR-TyDi QA, two multilingual QA datasets. While most answers are consistent, where they differ reveals valuable information about per-language resources disparity, and linguistic variation.</p>
     </div>
 
     <!-- Hidden bibtex block -->
