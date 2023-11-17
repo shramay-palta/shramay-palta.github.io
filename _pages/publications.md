@@ -60,8 +60,7 @@ nav: true
     <div class="bibtex hidden">
       <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">balepur2023not</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">"Balepur, Nishant and Palta, Shramay  and
-      Rudinger, Rachel"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Balepur, Nishant and Palta, Shramay  and Rudinger, Rachel"</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2311.07532}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">"2023"</span>
 <span class="p">}</span></code></pre></figure>
@@ -128,8 +127,7 @@ nav: true
       <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">palta-rudinger-2023-fork</span><span class="p">,</span>
   <span class="na">abbr</span> <span class="p">=</span> <span class="s">ACL</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">"{FORK}: A Bite-Sized Test Set for Probing Culinary Cultural Biases in Commonsense Reasoning Models"</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay  and
-      Rudinger, Rachel"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay  and Rudinger, Rachel"</span><span class="p">,</span>
   <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Findings of the Association for Computational Linguistics: ACL 2023"</span><span class="p">,</span>
   <span class="na">month</span> <span class="p">=</span> <span class="s">jul</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">"2023"</span><span class="p">,</span>
@@ -186,6 +184,7 @@ nav: true
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+        <a href="https://arxiv.org/pdf/2205.12456.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
     </div>
 
     <!-- Hidden abstract block -->
