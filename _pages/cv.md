@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Résumé
+title: CV
 # importance: 5
-permalink: resume/
+permalink: /cv/
 # redirect_from: resume/
-redirect_to: /assets/pdf/Shramay_Palta_CV.pdf
+cv_pdf: /assets/pdf/Shramay_Palta_CV.pdf
 nav: true
 ---
