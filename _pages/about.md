@@ -9,7 +9,7 @@ profile:
   image: Shramay.jpeg
   address: >
     <p>Iribe 4108</p> <p> 8125 Paint Branch Dr, College Park, MD 20742 </p>
-    <p>spalta [at] umd [dot] edu </p>
+    <p>spalta [at] cs [dot] umd [dot] edu </p>
 
 
 news: true  # includes a list of news items
