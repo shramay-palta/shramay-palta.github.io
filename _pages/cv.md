@@ -6,5 +6,5 @@ permalink: /assets/Shramay_Palta_CV.pdf
 # redirect_from: resume/
 redirect: /assets/Shramay_Palta_CV.pdf
 cv_pdf: /assets/Shramay_Palta_CV.pdf
-nav: false
+nav: true
 ---
