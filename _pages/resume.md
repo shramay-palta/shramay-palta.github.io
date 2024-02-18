@@ -6,5 +6,5 @@ newtab: true
 permalink: resume/
 # redirect_from: resume/
 redirect: /assets/pdf/Shramay_Palta_CV.pdf
-nav: true
+nav: false
 ---
