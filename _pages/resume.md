@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Résumé
-# importance: 5
+nav_order: 4
+newtab: true
 permalink: resume/
 # redirect_from: resume/
 redirect: /assets/pdf/Shramay_Palta_CV.pdf
