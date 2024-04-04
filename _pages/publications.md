@@ -7,6 +7,78 @@ nav: true
 ---
 
 <!--To add more papers, copy an entire content block and change details>
+
+<!-- Content -->
+
+  <div class="container mt-5">
+    <div class="post">
+
+  <article>
+    <div class="publications">
+
+
+  <h2 class="year">2024</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
+      <span style="color: #ffffff">
+        arXiv
+      </span>
+    </abbr>
+    
+  
+  </div>
+
+  <div id="somepalli2024measuring" class="col-sm-8">
+    
+      <div class="title">Measuring Style Similarity in Diffusion Models
+</div>
+      <div class="author">
+                Gowthami Somepalli,
+                Anubhav Gupta,
+                Kamal Gupta,
+                <em><b>Shramay Palta</b></em>,
+                Micah Goldblum, 
+                Jonas Geiping, 
+                Abhinav Shrivastava, 
+                and Tom Goldstein
+      </div>
+      <div class="periodical">
+        <em>arXiv preprint, 2024</em>
+      </div>
+    <div class="links">  
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      <a href="https://arxiv.org/abs/2404.01292" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="https://github.com/learn2phoenix/CSD" class="bibtex btn btn-sm z-depth-0" role="button">Code</a>
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>Generative models are now widely used by graphic designers and artists. Prior works have shown that these models remember and often replicate content from their training data during generation. Hence as their proliferation increases, it has become important to perform a database search to determine whether the properties of the image are attributable to specific training data, every time before a generated image is used for professional purposes. Existing tools for this purpose focus on retrieving images of similar semantic content. Meanwhile, many artists are concerned with style replication in text-to-image models. We present a framework for understanding and extracting style descriptors from images. Our framework comprises a new dataset curated using the insight that style is a subjective property of an image that captures complex yet meaningful interactions of factors including but not limited to colors, textures, shapes, etc. We also propose a method to extract style descriptors that can be used to attribute style of a generated image to the images used in the training dataset of a text-to-image model. We showcase promising results in various style retrieval tasks. We also quantitatively and qualitatively analyze style attribution and matching in the Stable Diffusion model. Code and artifacts are available at this https URL.
+</p>
+    </div>
+
+    <!-- Hidden bibtex block -->
+    
+    <div class="bibtex hidden">
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">somepalli2024measuring</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">Measuring Style Similarity in Diffusion Models</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Gowthami Somepalli and Anubhav Gupta and Kamal Gupta and Shramay Palta and Micah Goldblum and Jonas Geiping and Abhinav Shrivastava and Tom Goldstein"</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2404.01292}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2024"</span>
+<span class="p">}</span></code></pre></figure>
+    </div>
+    
+  </div>
+</div>
+</li></ol>
+</div></article>
+</div></div>
+
 <!-- Content -->
 
   <div class="container mt-5">
