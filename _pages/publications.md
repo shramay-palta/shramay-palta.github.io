@@ -22,9 +22,9 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #14CA05">
       <span style="color: #ffffff">
-        arXiv
+        ECCV 2024
       </span>
     </abbr>
     
@@ -46,7 +46,7 @@ nav: true
                 and Tom Goldstein
       </div>
       <div class="periodical">
-        <em>arXiv preprint, 2024</em>
+        <em>ECCV 2024</em>
       </div>
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
