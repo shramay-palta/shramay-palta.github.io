@@ -46,7 +46,7 @@ nav: true
                 and Tom Goldstein
       </div>
       <div class="periodical">
-        <em>ECCV 2024</em>
+        <em>The 18th European Conference on Computer Vision: ECCV 2024</em>
       </div>
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
@@ -88,14 +88,14 @@ nav: true
     <div class="publications">
 
 
-  <h2 class="year">2023</h2>
+  <h2 class="year">2024</h2>
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #FFC20E">
       <span style="color: #ffffff">
-        arXiv
+        ACL 2024
       </span>
     </abbr>
     
@@ -112,7 +112,7 @@ nav: true
                 and Rachel Rudinger
       </div>
       <div class="periodical">
-        <em>arXiv preprint, 2023</em>
+        <em>Findings of the Association for Computational Linguistics: ACL 2024</em>
       </div>
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
