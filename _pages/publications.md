@@ -117,7 +117,7 @@ nav: true
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      <a href="https://arxiv.org/abs/2311.07532" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="https://aclanthology.org/2024.findings-acl.604" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
     </div>
 
     <!-- Hidden abstract block -->
