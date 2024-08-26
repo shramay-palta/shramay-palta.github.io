@@ -104,7 +104,7 @@ nav: true
 
   <div id="balepur_poe" class="col-sm-8">
     
-      <div class="title">It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models
+      <div class="title">It’s Not Easy Being Wrong: Large Language Models Struggle with Process of Elimination Reasoning
 </div>
       <div class="author">
                 Nishant Balepur,            
@@ -130,11 +130,20 @@ nav: true
     <!-- Hidden bibtex block -->
     
     <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">balepur2023not</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models</span><span class="p">,</span>
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">balepur-etal-2024-easy</span><span class="p">,</span>
+      <span class="na">abbr</span> <span class="p">=</span> <span class="s">ACL</span><span class="p">,</span>
+
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"It's Not Easy Being Wrong: Large Language Models Struggle with Process of Elimination Reasoning"</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">"Balepur, Nishant and Palta, Shramay  and Rudinger, Rachel"</span><span class="p">,</span>
-  <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2311.07532}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">"2023"</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Findings of the Association for Computational Linguistics: ACL 2024"</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="s">aug</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2024"</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Association for Computational Linguistics"</span><span class="p">,</span>
+  <span class="na">address</span> <span class="p">=</span> <span class="s">"Bangkok, Thailand and virtual meeting"</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">"https://aclanthology.org/2024.findings-acl.604"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"10143--10166"</span><span class="p">,</span>
+  <span class="na">abstract</span> <span class="p">=</span> <span class="s">"Chain-of-thought (COT) prompting can help large language models (LLMs) reason toward correct answers, but its efficacy in reasoning toward incorrect answers is unexplored. This process of elimination (PoE), when used with COT, can enhance self-consistency, interpretability, and tasks such as medical diagnoses of exclusion. Thus, we propose PoE with COT, where LLMs must reason toward incorrect options on multiple-choice questions. We evaluate the ability of GPT-3.5, LLaMA-2, and Falcon to perform PoE with COT on a total of four commonsense and scientific reasoning datasets. We find that the strategy of PoE always underperforms the strategy of choosing the correct answer. The agreement of these strategies is also lower than the self-consistency of each strategy. To study these issues further, we conduct error analyses and give suggestions for future work."</span>
+
 <span class="p">}</span></code></pre></figure>
     </div>
     
