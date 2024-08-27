@@ -24,7 +24,7 @@ My research interests broadly lie in the areas of Computational Linguistics and 
 
 I got my Master of Science in Computer Science from UMD in 2023. Before coming to Maryland, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering.
 
-For Summer 2024, I was a research intern in the [Special Projects group](https://www.microsoft.com/en-us/research/group/microsoft-research-special-projects/) at [Microsoft Research](https://www.microsoft.com/en-us/research/) with [Scott Counts](https://www.microsoft.com/en-us/research/people/counts/), where I worked on understanding how user experience was impacted in cases of model mis-alignment with human values.
+For Summer 2024, I was a research intern in the [Special Projects group](https://www.microsoft.com/en-us/research/group/microsoft-research-special-projects/) at [Microsoft Research](https://www.microsoft.com/en-us/research/) with [Scott Counts](https://www.microsoft.com/en-us/research/people/counts/), where I worked on understanding how user experience is impacted in cases of model mis-alignment with human values.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
