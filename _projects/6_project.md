@@ -4,6 +4,7 @@ title: project 6
 description: a project with no image
 img:
 importance: 4
+nav: false
 category: fun
 ---
 
