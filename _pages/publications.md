@@ -16,6 +16,83 @@ nav: true
   <article>
     <div class="publications">
 
+  <h2 class="year">2024</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge" style="display:inline-block; width:100px; background-color:#ED1C24">
+      <span style="color: #ffffff">
+        EMNLP 2024
+      </span>
+    </abbr>
+    
+  
+  </div>
+
+  <div id="palta-etal-2024-plausibly" class="col-sm-8">
+    
+      <div class="title">Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning
+</div>
+      <div class="author">            
+                <em><b>Shramay Palta</b></em>,
+                Nishant Balepur,
+                Peter A. Rankel,
+                Sarah Wiegreffe,
+                Marine Carpuat,
+                and Rachel Rudinger
+      </div>
+      <div class="periodical">
+        <em>Findings of the Association for Computational Linguistics: EMNLP 2024</em>
+      </div>
+    <div class="links">  
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      <a href="https://aclanthology.org/2024.findings-emnlp.198" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="https://shramay-palta.github.io/assets/pdf/FORK_ACL2023/poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
+      <a href="https://github.com/shramay-palta/commonsense-mcq-plausibility" class="bibtex btn btn-sm z-depth-0" role="button">Data</a>
+      <a href="https://drive.google.com/file/d/1REHB7vjxcyeTSy80nuR02bCtf6aEhTPU/view?usp=sharing" class="bibtex btn btn-sm z-depth-0" role="button">Video</a>
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>Questions involving commonsense reasoning about everyday situations often admit many possible or plausible answers. In contrast, multiple-choice question (MCQ) benchmarks for commonsense reasoning require a hard selection of a single correct answer, which, in principle, should represent the most plausible answer choice. On 250 MCQ items sampled from two commonsense reasoning benchmarks, we collect 5,000 independent plausibility judgments on answer choices. We find that for over 20% of the sampled MCQs, the answer choice rated most plausible does not match the benchmark gold answers; upon manual inspection, we confirm that this subset exhibits higher rates of problems like ambiguity or semantic mismatch between question and answer choices. Experiments with LLMs reveal low accuracy and high variation in performance on the subset, suggesting our plausibility criterion may be helpful in identifying more reliable benchmark items for commonsense evaluation.
+</p>
+    </div>
+
+    <!-- Hidden bibtex block -->
+    
+    <div class="bibtex hidden">
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">palta-etal-2024-plausibly</span><span class="p">,</span>
+  <span class="na">abbr</span> <span class="p">=</span> <span class="s">EMNLP</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay and Balepur, Nishant  and Rankel, Peter A. and Wiegreffe, Sarah  and Carpuat, Marine and Rudinger, Rachel"</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Findings of the Association for Computational Linguistics: EMNLP 2024"</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="s">nov</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2024"</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Association for Computational Linguistics"</span><span class="p">,</span>
+  <span class="na">address</span> <span class="p">=</span> <span class="s">"Miami, Florida, USA"</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">"https://aclanthology.org/2024.findings-emnlp.198"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"3451--3473"</span><span class="p">,</span>
+  <span class="na">abstract</span> <span class="p">=</span> <span class="s">"Questions involving commonsense reasoning about everyday situations often admit many possible or plausible answers. In contrast, multiple-choice question (MCQ) benchmarks for commonsense reasoning require a hard selection of a single correct answer, which, in principle, should represent the most plausible answer choice. On 250 MCQ items sampled from two commonsense reasoning benchmarks, we collect 5,000 independent plausibility judgments on answer choices. We find that for over 20% of the sampled MCQs, the answer choice rated most plausible does not match the benchmark gold answers; upon manual inspection, we confirm that this subset exhibits higher rates of problems like ambiguity or semantic mismatch between question and answer choices. Experiments with LLMs reveal low accuracy and high variation in performance on the subset, suggesting our plausibility criterion may be helpful in identifying more reliable benchmark items for commonsense evaluation."</span>
+<span class="p">}</span></code></pre></figure>
+    </div>
+    
+  </div>
+</div>
+</li></ol>
+</div></article>
+</div></div>
+
+<!-- Content -->
+
+  <div class="container mt-5">
+    <div class="post">
+
+  <article>
+    <div class="publications">
+
 
   <h2 class="year">2024</h2>
   <ol class="bibliography"><li><div class="row">
