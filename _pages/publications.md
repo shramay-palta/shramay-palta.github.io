@@ -49,9 +49,9 @@ nav: true
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       <a href="https://aclanthology.org/2024.findings-emnlp.198" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      <a href="https://shramay-palta.github.io/assets/pdf/FORK_ACL2023/poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
+      <a href="https://shramay-palta.github.io/assets/pdf/Plausibility_2024/poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
       <a href="https://github.com/shramay-palta/commonsense-mcq-plausibility" class="bibtex btn btn-sm z-depth-0" role="button">Data</a>
-      <a href="https://drive.google.com/file/d/1REHB7vjxcyeTSy80nuR02bCtf6aEhTPU/view?usp=sharing" class="bibtex btn btn-sm z-depth-0" role="button">Video</a>
+      <a href="https://drive.google.com/file/d/1ddI_dBD-sfLOv8gL3jp8mXbjYjD85UTE/view?usp=share_link" class="bibtex btn btn-sm z-depth-0" role="button">Video</a>
     </div>
 
     <!-- Hidden abstract block -->
