@@ -22,7 +22,7 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #14CA05">
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #3CC7EA">
       <span style="color: #ffffff">
         ECCV 2024
       </span>
