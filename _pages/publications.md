@@ -110,7 +110,7 @@ nav: true
 
   <div id="somepalli2024measuring" class="col-sm-8">
     
-      <div class="title">Measuring Style Similarity in Diffusion Models
+      <div class="title">Investigating Style Similarity in Diffusion Models
 </div>
       <div class="author">
                 Gowthami Somepalli,
