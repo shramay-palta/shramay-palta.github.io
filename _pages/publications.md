@@ -128,7 +128,7 @@ nav: true
     <div class="links">  
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-      <a href="https://arxiv.org/abs/2404.01292" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08294.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       <a href="https://github.com/learn2phoenix/CSD" class="bibtex btn btn-sm z-depth-0" role="button">Code</a>
     </div>
 
@@ -141,11 +141,16 @@ nav: true
     <!-- Hidden bibtex block -->
     
     <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">somepalli2024measuring</span><span class="p">,</span>
-  <span class="na">title</span> <span class="p">=</span> <span class="s">Measuring Style Similarity in Diffusion Models</span><span class="p">,</span>
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">somepalli2024measuring</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">Investigating Style Similarity in Diffusion Models</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">"Gowthami Somepalli and Anubhav Gupta and Kamal Gupta and Shramay Palta and Micah Goldblum and Jonas Geiping and Abhinav Shrivastava and Tom Goldstein"</span><span class="p">,</span>
-  <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:2404.01292}</span><span class="p">,</span>
-  <span class="na">year</span> <span class="p">=</span> <span class="s">"2024"</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Computer Vision -- ECCV 2024"</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Springer Nature Switzerland"</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">"143--160"</span><span class="p">,</span>
+  <span class="na">address</span> <span class="p">=</span> <span class="s">"Cham"</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">"https://link.springer.com/chapter/10.1007/978-3-031-72848-8_9#citeas"</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2025"</span>
+  <span class="na">isbn</span> <span class="p">=</span> <span class="s">"978-3-031-72848-8"</span>
 <span class="p">}</span></code></pre></figure>
     </div>
     
