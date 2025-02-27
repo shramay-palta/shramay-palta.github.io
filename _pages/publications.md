@@ -16,12 +16,87 @@ nav: true
   <article>
     <div class="publications">
 
+  <h2 class="year">2025</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
+      <span style="color: #ffffff">
+        arXiv
+      </span>
+    </abbr>
+    
+  
+  </div>
+
+  <div id="palta-etal-2025-expertise" class="col-sm-8">
+    
+      <div class="title">Speaking the Right Language: The Impact of Expertise Alignment in User-AI Interactions
+</div>
+      <div class="author">            
+                <em><b>Shramay Palta</b></em>,
+                Nirupama Chandrasekaran,
+                Rachel Rudinger,
+                and Scott Counts
+      </div>
+      <div class="periodical">
+        <em>arXiv preprint, 2025</em>
+      </div>
+    <div class="links">  
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+      <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+      <a href="https://arxiv.org/abs/2502.18685" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <!-- <a href="https://shramay-palta.github.io/assets/pdf/Plausibility_2024/poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
+      <a href="https://github.com/shramay-palta/commonsense-mcq-plausibility" class="bibtex btn btn-sm z-depth-0" role="button">Data</a>
+      <a href="https://drive.google.com/file/d/1ddI_dBD-sfLOv8gL3jp8mXbjYjD85UTE/view?usp=share_link" class="bibtex btn btn-sm z-depth-0" role="button">Video</a> -->
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>Using a sample of 25,000 Bing Copilot conversations, we study how the agent responds to users of varying levels of domain expertise and the resulting impact on user experience along multiple dimensions. Our findings show that across a variety of topical domains, the agent largely responds at proficient or expert levels of expertise (77% of conversations) which correlates with positive user experience regardless of the user's level of expertise. Misalignment, such that the agent responds at a level of expertise below that of the user, has a negative impact on overall user experience, with the impact more profound for more complex tasks. We also show that users engage more, as measured by the number of words in the conversation, when the agent responds at a level of expertise commensurate with that of the user. Our findings underscore the importance of alignment between user and AI when designing human-centered AI systems, to ensure satisfactory and productive interactions.
+</p>
+    </div>
+
+    <!-- Hidden bibtex block -->
+    
+    <div class="bibtex hidden">
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@misc</span><span class="p">{</span><span class="nl">palta-etal-2025-expertise</span><span class="p">,</span>
+  <span class="na">abbr</span> <span class="p">=</span> <span class="s">arXiv</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">"Speaking the Right Language: The Impact of Expertise Alignment in User-AI Interactions"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay and Chandrasekaran Nirupama and Rudinger, Rachel and Counts, Scott"</span><span class="p">,</span>
+  <!-- <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Findings of the Association for Computational Linguistics: EMNLP 2024"</span><span class="p">,</span> -->
+  <!-- <span class="na">month</span> <span class="p">=</span> <span class="s">nov</span><span class="p">,</span> -->
+  <span class="na">year</span> <span class="p">=</span> <span class="s">"2025"</span><span class="p">,</span>
+  <!-- <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Association for Computational Linguistics"</span><span class="p">,</span> -->
+  <!-- <span class="na">address</span> <span class="p">=</span> <span class="s">"Miami, Florida, USA"</span><span class="p">,</span> -->
+  <span class="na">url</span> <span class="p">=</span> <span class="s">"https://arxiv.org/abs/2502.18685"</span><span class="p">,</span>
+  <!-- <span class="na">pages</span> <span class="p">=</span> <span class="s">"3451--3473"</span><span class="p">,</span> -->
+  <span class="na">abstract</span> <span class="p">=</span> <span class="s">"Using a sample of 25,000 Bing Copilot conversations, we study how the agent responds to users of varying levels of domain expertise and the resulting impact on user experience along multiple dimensions. Our findings show that across a variety of topical domains, the agent largely responds at proficient or expert levels of expertise (77% of conversations) which correlates with positive user experience regardless of the user's level of expertise. Misalignment, such that the agent responds at a level of expertise below that of the user, has a negative impact on overall user experience, with the impact more profound for more complex tasks. We also show that users engage more, as measured by the number of words in the conversation, when the agent responds at a level of expertise commensurate with that of the user. Our findings underscore the importance of alignment between user and AI when designing human-centered AI systems, to ensure satisfactory and productive interactions."</span>
+<span class="p">}</span></code></pre></figure>
+    </div>
+    
+  </div>
+</div>
+</li></ol>
+</div></article>
+</div></div>
+
+<!-- Content -->
+
+  <div class="container mt-5">
+    <div class="post">
+
+  <article>
+    <div class="publications">
+
   <h2 class="year">2024</h2>
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color:#ED1C24">
+    <abbr class="badge" style="display:inline-block; width:100px; background-color: #ED1C24">
       <span style="color: #ffffff">
         EMNLP 2024
       </span>
@@ -67,7 +142,7 @@ nav: true
       <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">palta-etal-2024-plausibly</span><span class="p">,</span>
   <span class="na">abbr</span> <span class="p">=</span> <span class="s">EMNLP</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">"Plausibly Problematic Questions in Multiple-Choice Benchmarks for Commonsense Reasoning"</span><span class="p">,</span>
-  <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay and Balepur, Nishant  and Rankel, Peter A. and Wiegreffe, Sarah  and Carpuat, Marine and Rudinger, Rachel"</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay and Balepur, Nishant  and Rankel, Peter A. and Wiegreffe, Sarah and Carpuat, Marine and Rudinger, Rachel"</span><span class="p">,</span>
   <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Findings of the Association for Computational Linguistics: EMNLP 2024"</span><span class="p">,</span>
   <span class="na">month</span> <span class="p">=</span> <span class="s">nov</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">"2024"</span><span class="p">,</span>
