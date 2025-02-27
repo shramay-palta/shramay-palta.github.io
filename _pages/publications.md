@@ -66,13 +66,8 @@ nav: true
   <span class="na">abbr</span> <span class="p">=</span> <span class="s">arXiv</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">"Speaking the Right Language: The Impact of Expertise Alignment in User-AI Interactions"</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay and Chandrasekaran Nirupama and Rudinger, Rachel and Counts, Scott"</span><span class="p">,</span>
-  <!-- <span class="na">booktitle</span> <span class="p">=</span> <span class="s">"Findings of the Association for Computational Linguistics: EMNLP 2024"</span><span class="p">,</span> -->
-  <!-- <span class="na">month</span> <span class="p">=</span> <span class="s">nov</span><span class="p">,</span> -->
   <span class="na">year</span> <span class="p">=</span> <span class="s">"2025"</span><span class="p">,</span>
-  <!-- <span class="na">publisher</span> <span class="p">=</span> <span class="s">"Association for Computational Linguistics"</span><span class="p">,</span> -->
-  <!-- <span class="na">address</span> <span class="p">=</span> <span class="s">"Miami, Florida, USA"</span><span class="p">,</span> -->
   <span class="na">url</span> <span class="p">=</span> <span class="s">"https://arxiv.org/abs/2502.18685"</span><span class="p">,</span>
-  <!-- <span class="na">pages</span> <span class="p">=</span> <span class="s">"3451--3473"</span><span class="p">,</span> -->
   <span class="na">abstract</span> <span class="p">=</span> <span class="s">"Using a sample of 25,000 Bing Copilot conversations, we study how the agent responds to users of varying levels of domain expertise and the resulting impact on user experience along multiple dimensions. Our findings show that across a variety of topical domains, the agent largely responds at proficient or expert levels of expertise (77% of conversations) which correlates with positive user experience regardless of the user's level of expertise. Misalignment, such that the agent responds at a level of expertise below that of the user, has a negative impact on overall user experience, with the impact more profound for more complex tasks. We also show that users engage more, as measured by the number of words in the conversation, when the agent responds at a level of expertise commensurate with that of the user. Our findings underscore the importance of alignment between user and AI when designing human-centered AI systems, to ensure satisfactory and productive interactions."</span>
 <span class="p">}</span></code></pre></figure>
     </div>
