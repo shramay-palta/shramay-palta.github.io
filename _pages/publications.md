@@ -85,7 +85,7 @@ nav: true
   <article>
     <div class="publications">
 
-  <h2 class="year">2025</h2>
+  <!-- <h2 class="year">2025</h2> -->
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
   
