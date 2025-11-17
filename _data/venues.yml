@@ -15,3 +15,7 @@
 "EMNLP 2024":
   url: https://2024.emnlp.org/
   color: "#ED1C24"
+
+"IJCNLP-AACL 2025":
+  url: https://2025.aaclnet.org
+  color: "#F7850E"
