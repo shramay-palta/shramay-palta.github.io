@@ -20,7 +20,7 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:122px; background-color: #F7850E">
+    <abbr class="badge" style="display:inline-block; width:125px; background-color: #F7850E">
       <span style="color: #ffffff">
         IJCNLP-AACL 2025
       </span>
