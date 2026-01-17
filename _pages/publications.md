@@ -60,7 +60,7 @@ nav: true
     <!-- Hidden bibtex block -->
     
     <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@misc</span><span class="p">{</span><span class="nl">palta-etal-2025-expertise</span><span class="p">,</span>
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">palta-etal-2025-expertise</span><span class="p">,</span>
   <span class="na">abbr</span> <span class="p">=</span> <span class="s">IJCNLP-AACL 2025</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">"Speaking the Right Language: The Impact of Expertise (Mis)Alignment in User-AI Interactions"</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">"Palta, Shramay and Chandrasekaran, Nirupama and Rudinger, Rachel and Counts, Scott"</span><span class="p">,</span>
