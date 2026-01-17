@@ -699,13 +699,16 @@ footer.sticky-bottom {
       }
 
       .abbr {
-        height: 2rem;
+        height: auto;
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding: 0.15rem 0.5rem;
+          padding: 0.1em 0.3em;  // minimal padding for readability
+          width: auto;           // shrink-wrap the content
+          white-space: nowrap;   // keep text on one line
+          line-height: 1.4;
 
           a {
             color: white;
