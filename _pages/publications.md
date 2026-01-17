@@ -46,7 +46,7 @@ nav: true
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       <a href="https://aclanthology.org/2025.ijcnlp-short.5/" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      <a href="https://shramay-palta.github.io/assets/pdf/MSR_Expertise_2024/poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
+      <a href="https://shramay-palta.github.io/assets/pdf/MSR_Expertise_2024 /poster.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
       <a href="https://drive.google.com/file/d/1Dc874N52KJPpnSqRc6kJP2y02JHSiy1i/view?usp=sharing" class="bibtex btn btn-sm z-depth-0" role="button">Video</a> 
     </div>
 
