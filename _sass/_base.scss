@@ -1118,3 +1118,12 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
+
+/* Fix venue badge width in publications / selected papers */
+.publications abbr.badge {
+  display: inline-block;
+  width: max-content;
+  padding: 0.15em 0.45em;   /* reduce horizontal orange */
+  white-space: nowrap;
+}
+
