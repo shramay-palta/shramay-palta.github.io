@@ -20,7 +20,7 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-  <abbr class="badge" style="display:inline-block; width:fit-content; background-color:#F7850E; padding:0.25em 0.6em; white-space:nowrap;">
+  <abbr class="badge" style="display:inline-block; width:fit-content; background-color: #F7850E; padding:0.25em 0.6em; white-space:nowrap;">
       <span style="color: #ffffff">
         IJCNLP-AACL 2025
       </span>
@@ -94,11 +94,11 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
-      <span style="color: #ffffff">
-        arXiv
-      </span>
-    </abbr>
+  <abbr class="badge" style="display:inline-block; width:fit-content; background-color: #430868; padding:0.25em 0.6em; white-space:nowrap;">
+    <span style="color: #ffffff">
+      arXiv
+    </span>
+  </abbr>
     
   
   </div>
@@ -164,11 +164,11 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #ED1C24">
-      <span style="color: #ffffff">
-        EMNLP 2024
-      </span>
-    </abbr>
+  <abbr class="badge" style="display:inline-block; width:fit-content; background-color: #ED1C24; padding:0.25em 0.6em; white-space:nowrap;">
+    <span style="color: #ffffff">
+      EMNLP 2024
+    </span>
+  </abbr>
     
   
   </div>
@@ -242,11 +242,11 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #3CC7EA">
-      <span style="color: #ffffff">
-        ECCV 2024
-      </span>
-    </abbr>
+  <abbr class="badge" style="display:inline-block; width:fit-content; background-color: #3CC7EA; padding:0.25em 0.6em; white-space:nowrap;">
+    <span style="color: #ffffff">
+      ECCV 2024
+    </span>
+  </abbr>
     
   
   </div>
@@ -317,11 +317,11 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #FFC20E">
-      <span style="color: #ffffff">
-        ACL 2024
-      </span>
-    </abbr>
+  <abbr class="badge" style="display:inline-block; width:fit-content; background-color: #FFC20E; padding:0.25em 0.6em; white-space:nowrap;">
+    <span style="color: #ffffff">
+      ACL 2024
+    </span>
+  </abbr>
     
   
   </div>
@@ -389,11 +389,11 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color:#FFC20E">
-      <span style="color: #ffffff">
-        ACL 2023
-      </span>
-    </abbr>
+  <abbr class="badge" style="display:inline-block; width:fit-content; background-color: #FFC20E; padding:0.25em 0.6em; white-space:nowrap;">
+    <span style="color: #ffffff">
+      ACL 2023
+    </span>
+  </abbr>
     
   
   </div>
