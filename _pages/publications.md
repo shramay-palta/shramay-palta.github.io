@@ -463,11 +463,11 @@ nav: true
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge" style="display:inline-block; width:100px; background-color: #430868">
-      <span style="color: #ffffff">
-        arXiv
-      </span>
-    </abbr>
+  <abbr class="badge" style="display:inline-block; width:fit-content; background-color: #430868; padding:0.25em 0.6em; white-space:nowrap;">
+    <span style="color: #ffffff">
+      arXiv
+    </span>
+  </abbr>
     
   
   </div>
