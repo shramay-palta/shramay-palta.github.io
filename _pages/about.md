@@ -10,9 +10,45 @@ profile:
   more_info: >
     <p>Iribe 4108</p> <p> 8125 Paint Branch Dr, College Park, MD 20742 </p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+selected_papers: true
+social: true
+
+<style>
+  .job-alert-box {
+    padding: 15px;
+    margin: 15px 0 25px 0;
+    border-radius: 8px;
+    background-color: #d1ecf1; /* Soft blue highlight */
+    color: #0c5460;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    /* The animation property */
+    animation: gentlePulse 2s infinite ease-in-out;
+  }
+
+  /* Ensures it looks good in al-folio's dark mode */
+  html[data-theme='dark'] .job-alert-box {
+    background-color: #1a4953;
+    color: #a8edf8;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+  }
+
+  /* The keyframes for the pulsing effect */
+  @keyframes gentlePulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.02); }
+    100% { transform: scale(1); }
+  }
+</style>
+
+<div class="job-alert-box">
+  🚀 <strong>I am on the industry job market and actively looking for research positions.</strong> <br>
+  Please reach out if you think we'd be a good fit.
+</div>
+
 ---
 I am a [Ph.D. Candidate](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/) where I am advised by [Professor Rachel Rudinger](https://rudinger.github.io).
 
