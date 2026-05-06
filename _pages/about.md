@@ -16,18 +16,19 @@ social: true
 ---
 <style>
   .job-alert-box {
+    display: none; /* Prevents initial flicker */
     width: 100%;
     padding: 15px;
     margin: 0 0 30px 0;
     border-radius: 8px;
     background-color: #1E7021; 
-    color: #FFFFFF; /* Base text color */
+    color: #FFFFFF; 
     text-align: center;
     font-size: 1.1rem;
     font-weight: 500;
     box-shadow: 0 4px 6px rgba(0,0,0,0.15);
-    animation: gentlePulse 2s infinite ease-in-out;
     box-sizing: border-box;
+    opacity: 0; /* Ensures it starts invisible for the fade */
   }
 
   /* Default (Light Mode) bold text - Bright Red */
@@ -46,28 +47,47 @@ social: true
     color: #FFC20E; 
   }
 
+  /* 1. The Fade-In Keyframes */
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(-10px) scale(1); }
+    100% { opacity: 1; transform: translateY(0) scale(1); }
+  }
+
+  /* 2. The Pulsing Keyframes */
   @keyframes gentlePulse {
     0% { transform: scale(1); }
     50% { transform: scale(1.02); }
     100% { transform: scale(1); }
   }
+
+  /* Trigger BOTH animations */
+  .job-alert-box.visible {
+    display: block; 
+    /* Animation 1: Fade in over 1 second, lock in place (forwards)
+      Animation 2: Pulse every 2 seconds, infinitely, but WAIT 1 second to start
+    */
+    animation: 
+      fadeIn 1s ease-out forwards, 
+      gentlePulse 2s infinite ease-in-out 1s; 
+  }
 </style>
 
 <div class="job-alert-box" id="job-alert">
-  🚀 <strong>I am on the industry job market and actively looking for full time research positions.</strong> <br>
+  🚀 <strong>I am on the industry job market and actively looking for research positions.</strong> <br>
   <span style="color: #FFFFFF;">Please reach out if you think we'd be a good fit.</span>
 </div>
 
 <script>
-  // This tiny script moves the box above the floating profile image 
-  // without needing to hack the core al-folio layout files!
   document.addEventListener("DOMContentLoaded", function() {
     const banner = document.getElementById('job-alert');
-    // Finds the main article container
     const article = document.querySelector('article'); 
+    
     if (banner && article) {
-      // Inserts the banner at the very top, pushing everything else down
+      // 1. Move banner to the top
       article.insertBefore(banner, article.firstChild); 
+      
+      // 2. Add class to trigger the combined CSS animations
+      banner.classList.add('visible'); 
     }
   });
 </script>
