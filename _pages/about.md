@@ -16,23 +16,29 @@ social: true
 ---
 <style>
   .job-alert-box {
-    width: 100%; /* Forces it to span the center */
+    width: 100%;
     padding: 15px;
-    margin: 0 0 30px 0; /* Pushes the image and content down below it */
+    margin: 0 0 30px 0;
     border-radius: 8px;
-    background-color: #d1ecf1;
-    color: #1E7021;
+    background-color: #1E7021; /* Your new forest green */
+    color: #FFFFFF;            /* Pure white text for contrast */
     text-align: center;
     font-size: 1.1rem;
     font-weight: 500;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.15); /* Slightly darker shadow for dark bg */
     animation: gentlePulse 2s infinite ease-in-out;
     box-sizing: border-box;
   }
 
+  /* Optional: Makes the bold text pop with a subtle gold */
+  .job-alert-box strong {
+    color: #FFD54F; 
+  }
+
+  /* Dark mode settings */
   html[data-theme='dark'] .job-alert-box {
-    background-color: #1E7021;
-    color: #a8edf8;
+    background-color: #144d16; /* A slightly darker green for dark mode */
+    color: #e8f5e9;            /* A very soft pale green/white */
     box-shadow: 0 4px 6px rgba(0,0,0,0.3);
   }
 
@@ -44,7 +50,7 @@ social: true
 </style>
 
 <div class="job-alert-box" id="job-alert">
-  🚀 <strong>I am on the industry job market and actively looking for research positions.</strong> <br>
+  🚀 <strong>I am on the industry job market and actively looking for full time research positions.</strong> <br>
   Please reach out if you think we'd be a good fit.
 </div>
 
