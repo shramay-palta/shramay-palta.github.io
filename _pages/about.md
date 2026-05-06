@@ -20,26 +20,30 @@ social: true
     padding: 15px;
     margin: 0 0 30px 0;
     border-radius: 8px;
-    background-color: #1E7021; /* Your new forest green */
-    color: #FFFFFF;            /* Pure white text for contrast */
+    background-color: #1E7021; 
+    color: #FFFFFF; /* Base text color */
     text-align: center;
     font-size: 1.1rem;
     font-weight: 500;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.15); /* Slightly darker shadow for dark bg */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.15);
     animation: gentlePulse 2s infinite ease-in-out;
     box-sizing: border-box;
   }
 
-  /* Optional: Makes the bold text pop with a subtle gold */
+  /* Default (Light Mode) bold text - Bright Red */
   .job-alert-box strong {
-    color: #FFD54F; 
+    color: #ed1c24; 
   }
 
-  /* Dark mode settings */
+  /* Dark mode background settings */
   html[data-theme='dark'] .job-alert-box {
-    background-color: #144d16; /* A slightly darker green for dark mode */
-    color: #e8f5e9;            /* A very soft pale green/white */
+    background-color: #144d16; 
     box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+  }
+
+  /* Dark mode bold text - Back to Gold */
+  html[data-theme='dark'] .job-alert-box strong {
+    color: #FFC20E; 
   }
 
   @keyframes gentlePulse {
@@ -51,7 +55,7 @@ social: true
 
 <div class="job-alert-box" id="job-alert">
   🚀 <strong>I am on the industry job market and actively looking for full time research positions.</strong> <br>
-  Please reach out if you think we'd be a good fit.
+  <span style="color: #FFFFFF;">Please reach out if you think we'd be a good fit.</span>
 </div>
 
 <script>
@@ -75,7 +79,7 @@ I am a member of the [Computational Linguistics and Information Processing (CLIP
 My research interests broadly lie in the areas of Computational Linguistics and Natural Language Processing with a focus on Commonsense Reasoning, Explainability and Interpretability, and Bias and Fairness in NLP. Specifically, I try to explore and understand:
 
 1. Is commonsense reasoning prone to uncertainty?
-2. How do humans and language models behave under this uncertainty?
+2. How do humans and large language models behave under this uncertainty?
 3. Are there cases where models deviate from human values and notions about the real world?
 
 I got my Master of Science in Computer Science from UMD in 2023. Before coming to Maryland, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering.
