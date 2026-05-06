@@ -16,26 +16,26 @@ social: true
 ---
 <style>
   .job-alert-box {
+    width: 100%; /* Forces it to span the center */
     padding: 15px;
-    margin: 15px 0 25px 0;
+    margin: 0 0 30px 0; /* Pushes the image and content down below it */
     border-radius: 8px;
-    background-color: #d1ecf1; /* Soft blue highlight */
-    color: #0c5460;
+    background-color: #d1ecf1;
+    color: #1E7021;
     text-align: center;
     font-size: 1.1rem;
     font-weight: 500;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    /* The animation property */
     animation: gentlePulse 2s infinite ease-in-out;
+    box-sizing: border-box;
   }
 
   html[data-theme='dark'] .job-alert-box {
-    background-color: #1a4953;
+    background-color: #1E7021;
     color: #a8edf8;
     box-shadow: 0 4px 6px rgba(0,0,0,0.3);
   }
 
-  /* The keyframes for the pulsing effect */
   @keyframes gentlePulse {
     0% { transform: scale(1); }
     50% { transform: scale(1.02); }
@@ -43,10 +43,24 @@ social: true
   }
 </style>
 
-<div class="job-alert-box">
+<div class="job-alert-box" id="job-alert">
   🚀 <strong>I am on the industry job market and actively looking for research positions.</strong> <br>
   Please reach out if you think we'd be a good fit.
 </div>
+
+<script>
+  // This tiny script moves the box above the floating profile image 
+  // without needing to hack the core al-folio layout files!
+  document.addEventListener("DOMContentLoaded", function() {
+    const banner = document.getElementById('job-alert');
+    // Finds the main article container
+    const article = document.querySelector('article'); 
+    if (banner && article) {
+      // Inserts the banner at the very top, pushing everything else down
+      article.insertBefore(banner, article.firstChild); 
+    }
+  });
+</script>
 
 I am a [Ph.D. Candidate](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/) where I am advised by [Professor Rachel Rudinger](https://rudinger.github.io).
 
