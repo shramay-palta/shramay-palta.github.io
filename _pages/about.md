@@ -97,16 +97,14 @@ social: true
   });
 </script>
 
-I am a [Ph.D. Candidate](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/) where I am advised by [Professor Rachel Rudinger](https://rudinger.github.io).
+I am a [Ph.D. Candidate](https://www.cs.umd.edu/people/spalta) in the [Department of Computer Science](https://www.cs.umd.edu) at the [University of Maryland, College Park](https://www.umd.edu/), where I am advised by [Professor Rachel Rudinger](https://rudinger.github.io). I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in [UMIACS](https://www.umiacs.umd.edu). 
 
-I am a member of the [Computational Linguistics and Information Processing (CLIP)](https://wiki.umiacs.umd.edu/clip/index.php/Main_Page) Lab in [UMIACS](https://www.umiacs.umd.edu). 
+My research centers on commonsense reasoning, human-AI alignment, and explainability of generative models, with a focus on natural language processing. Specifically, my work explores:
 
-My research interests broadly lie in the areas of Computational Linguistics and Natural Language Processing with a focus on Commonsense Reasoning, Explainability and Interpretability, and Bias and Fairness in NLP. Specifically, I try to explore and understand:
+1. **Reliability under Uncertainty**: Evaluating LLM behavior in ambiguous contexts to identify failure modes, mitigate hallucinations, and ensure robust performance.
+2. **Human-AI Alignment**: Studying how models and humans process information differently and developing methods to align model reasoning with human expectations.
+3. **Trust & Safety**: Identifying and mitigating instances where models deviate from human values, facts, or societal norms, focusing on explainability and fairness.
 
-1. Is commonsense reasoning prone to uncertainty?
-2. How do humans and large language models behave under this uncertainty?
-3. Are there cases where models deviate from human values and notions about the real world?
+I earned my Master's degree in Computer Science from UMD in 2023 and my Bachelor's degree in Electrical and Electronics Engineering from [BITS Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021.
 
-I got my Master of Science in Computer Science from UMD in 2023. Before coming to Maryland, I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/Pilani/index.aspx) in 2021 with a Bachelor of Engineering (B.E.) in Electrical and Electronics Engineering.
-
-For Summer 2025, I was a research intern in the Office AI team at [Microsoft Research](https://www.microsoft.com/en-us/research/), where I worked with [Mengting Wan](https://mengtingwan.github.io) and Michael Bentley.
+During my Ph.D., I interned twice at [Microsoft Research](https://www.microsoft.com/en-us/research/): first with [Scott Counts](https://www.microsoft.com/en-us/research/people/counts/) and the [Special Projects Group](https://www.microsoft.com/en-us/research/group/microsoft-research-special-projects/) in Summer 2024, and then with [Mengting Wan](https://mengtingwan.github.io), Michael Bentley, and the Office AI Team in Summer 2025.
