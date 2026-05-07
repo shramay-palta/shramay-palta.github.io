@@ -3,13 +3,12 @@ layout: page
 title: projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
-nav: False
-sitemap: False
-noindex: True
+nav: false
+sitemap: false
+noindex: true
 ---
 
 <!-- pages/projects.md -->
