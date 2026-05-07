@@ -3,7 +3,9 @@ layout: page
 permalink: /courses/
 title: Courses
 description: A list of courses taken as a part of my Masters and Ph.D. Degree in Computer Science and the courses that I assist in teaching.
-nav: False
+nav: false
+sitemap: false
+noindex: true
 ---
 <!-- ####  -->
 ### **University of Maryland, College Park**

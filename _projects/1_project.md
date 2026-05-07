@@ -6,6 +6,8 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 nav: false
+sitemap: false
+noindex: true
 related_publications: true
 ---
 
