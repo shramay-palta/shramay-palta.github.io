@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /projects/
+Disallow: /courses/
 
 Sitemap: https://shramay-palta.github.io/sitemap.xml
