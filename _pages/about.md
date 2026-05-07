@@ -32,7 +32,7 @@ social: true
   }
 
   .job-alert-box strong {
-    color: #ed1c24; 
+    color: #144d16; 
   }
 
   html[data-theme='dark'] .job-alert-box {
