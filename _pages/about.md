@@ -21,7 +21,7 @@ social: true
     padding: 15px;
     margin: 0 0 30px 0;
     border-radius: 8px;
-    background-color: #1E7021; 
+    background-color: #FFC20E; 
     color: #FFFFFF; 
     text-align: center;
     font-size: 1.1rem;
@@ -31,18 +31,15 @@ social: true
     opacity: 0; 
   }
 
-  /* Default (Light Mode) bold text - Bright Red */
   .job-alert-box strong {
     color: #ed1c24; 
   }
 
-  /* Dark mode background settings */
   html[data-theme='dark'] .job-alert-box {
     background-color: #144d16; 
     box-shadow: 0 4px 6px rgba(0,0,0,0.3);
   }
 
-  /* Dark mode bold text - Back to Gold */
   html[data-theme='dark'] .job-alert-box strong {
     color: #FFC20E; 
   }
@@ -81,7 +78,7 @@ social: true
 </style>
 
 <div class="job-alert-box" id="job-alert">
-  🚀 <strong>I am on the industry job market and actively looking for research positions.</strong> <br>
+  🚀 <strong>I am on the industry job market and actively looking for research positions!</strong> <br>
   <span style="color: #FFFFFF;">Please reach out if you think we'd be a good fit.</span>
 </div>
 
