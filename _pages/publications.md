@@ -192,7 +192,7 @@ nav: true
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       <a href="https://aclanthology.org/2024.findings-emnlp.198" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      <a href="https://shramay-palta.github.io/assets/posters/plausibility_problematic.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
+      <a href="../assets/posters/plausibility_problematic.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
       <a href="https://github.com/shramay-palta/commonsense-mcq-plausibility" class="bibtex btn btn-sm z-depth-0" role="button">Data</a>
       <a href="https://drive.google.com/file/d/1ddI_dBD-sfLOv8gL3jp8mXbjYjD85UTE/view?usp=share_link" class="bibtex btn btn-sm z-depth-0" role="button">Video</a>
     </div>
@@ -413,7 +413,7 @@ nav: true
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       <a href="https://aclanthology.org/2023.findings-acl.631/" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      <a href="https://shramay-palta.github.io/assets/posters/fork.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
+      <a href="../assets/posters/fork.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
       <a href="https://github.com/shramay-palta/FORK_ACL2023" class="bibtex btn btn-sm z-depth-0" role="button">Dataset</a>
       <a href="https://drive.google.com/file/d/1REHB7vjxcyeTSy80nuR02bCtf6aEhTPU/view?usp=sharing" class="bibtex btn btn-sm z-depth-0" role="button">Video</a>
     </div>
