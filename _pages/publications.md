@@ -49,7 +49,7 @@ nav: true
       <a href="https://aclanthology.org/2026.acl-long.599/" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       <a href="../assets/posters/aam.pdf" class="bibtex btn btn-sm z-depth-0" role="button">Poster</a>
       <a href="https://github.com/shramay-palta/AAM" class="bibtex btn btn-sm z-depth-0" role="button">Data</a>
-      <a href="https://drive.google.com/file/d/10mc77Q-4CME3uaq3foiDPx8m80WeRALi/view?usp=sharing" class="bibtex btn btn-sm z-depth-0" role="button">Video</a> -->
+      <a href="https://drive.google.com/file/d/10mc77Q-4CME3uaq3foiDPx8m80WeRALi/view?usp=sharing" class="bibtex btn btn-sm z-depth-0" role="button">Video</a>
     </div>
 
     <!-- Hidden abstract block -->
